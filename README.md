@@ -1,2 +1,2 @@
 # Ejercicios 📊
-Recopilado de Ejercicios al azar con Java.
+Recopilado de Ejercicios al azar con Java y SQL.
