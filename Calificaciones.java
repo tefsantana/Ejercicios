@@ -20,13 +20,13 @@ public class Calificaciones {
         
         Scanner sc = new Scanner(System.in);
         System.out.println("Escribe la primera calificación: ");
-        int calificacion1 = sc.nextInt();
+        float calificacion1 = sc.nextInt();
         
         System.out.println("Escribe la segunda calificación: ");
-        int calificacion2 = sc.nextInt();
+        float calificacion2 = sc.nextInt();
         
         System.out.println("Escribe la tercera calificación: ");
-        int calificacion3 = sc.nextInt();
+        float calificacion3 = sc.nextInt();
         
         float promedio = (calificacion1 + calificacion2 + calificacion3) / 3;
                 
